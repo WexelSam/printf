@@ -240,4 +240,4 @@ All the above options work well together.
 ### Authors &copy;
 
 - Samson Agbodji
-- Daniel eibo
+- Samuel Eibo
